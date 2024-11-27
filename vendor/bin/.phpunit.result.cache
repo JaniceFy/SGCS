@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":294:{a:2:{s:7:"defects";a:2:{s:27:"BdTest::testConexionFallida";i:4;s:27:"testBD::testConexionFallida";i:3;}s:5:"times";a:4:{s:27:"BdTest::testConexionExitosa";d:0.059;s:27:"BdTest::testConexionFallida";d:0.025;s:27:"testBD::testConexionExitosa";d:0.056;s:27:"testBD::testConexionFallida";d:0.019;}}}
